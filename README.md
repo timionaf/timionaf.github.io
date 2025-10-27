@@ -1,14 +1,7 @@
-# H1 Heading
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Timi's Premier Website
 
-Alternatively, for H1 and H2, an underline-ish style:
+Hello World!
 
-Alt-H1
-======
+Updates coming soon...
 
-Alt-H2
-------
+First edit: October 27, 2025
