@@ -1,4 +1,4 @@
-# Timi's Premier Website
+# Timi's  Webpage
 
 Hello World!
 
